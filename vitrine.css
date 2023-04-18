@@ -1,0 +1,62 @@
+section
+{
+    text-align: center;
+    
+}
+
+body
+{
+
+background-color: black;
+}
+
+#txt1
+{
+    color: aliceblue;
+}
+
+#cover
+{
+    margin: 20px;
+}
+#son
+{
+    color: aliceblue;
+}
+
+#stream
+{
+    color: aliceblue;
+}
+
+#reseaux
+{
+    display: flex;
+    flex-direction: column;
+}
+
+#ruskov
+{
+    text-align: left;
+    margin: 15px;
+    color: aliceblue;
+}
+
+#dream
+{
+    text-align: right;
+    margin: 15px;
+    color: aliceblue;
+}
+
+.Cover1
+{
+  
+    float:left;
+}
+
+.Cover2
+{
+    
+    float:right;
+}
